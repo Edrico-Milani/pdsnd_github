@@ -13,6 +13,7 @@ The following files were used to create the Bikeshare Project:
 * chicago.csv
 * new_york_city.csv
 * washington.csv
+* .gitignore
 
 ## Credits
 The resource [here](https://github.com/udacity/psdnd_github) was super helpful during the Bikeshare Project.
