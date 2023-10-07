@@ -231,6 +231,7 @@ def main():
         if restart.lower() != 'yes':
             break
 #Link to Project Bikeshare Github repository
+print('For more information, please visit: https://github.com/Edrico-Milani/psdnd_github')
 
 if __name__ == "__main__":
 	main()
